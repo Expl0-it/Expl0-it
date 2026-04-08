@@ -9,6 +9,8 @@
   
 - 🌱 I'm currently learning **system design, python, django**
 
+- 🌸 I would love to learn **Rust**
+
 - 👯 I'm looking to collaborate on **open source projects**
 
 - 🤝 I'm looking for help with **finding an internship**
