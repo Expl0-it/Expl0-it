@@ -1,4 +1,5 @@
-# Hi 👋, I'm Expl0-it
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+👋+I'm+Expl0-it)](https://git.io/typing-svg)
+<hr>
 
 ### A passionate low level and backend developer
 
