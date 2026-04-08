@@ -12,7 +12,7 @@
 
 - 🤝 I'm looking for help with **finding an internship**
 
-- 💬 Ask me about **how does code work behind the hood, system design and why vim is the GOAT hahah**
+- 💬 Ask me about **how does the code work under the hood, system design and why vim is the GOAT text editor hahah**
 
 - 📫 How to reach me **expl0it.root@protonmail.com**
 
